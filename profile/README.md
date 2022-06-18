@@ -8,5 +8,5 @@
   <li><a href="https://twitter.com/vipercord">Twitter</a> - Our Twitter Account</li>
   <li><a href="https://vipercord.instatus.com/">Status</a> - Our Status Page</li>
   <li><a href="https://paypal.me/vipercord">Donate</a> - Our Donation Page</li>
-  <li><a href="https://docs.vipercord.com/">Docs</a> - Our Docs</li>
+  <li><a href="https://docs.vipercord.com/">Docs</a> - Our Docs Page</li>
 </ul>
