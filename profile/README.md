@@ -3,6 +3,10 @@
 
 <h2>Our Links</h2>
 <ul>
-  <li><a href="https://hosturly.com">Website</a> - Our Main Website</li>
+  <li><a href="https://vipercord.com">Website</a> - Our Main Website</li>
+  <li><a href="https://discord.com/invite/Fp8CnqyWW8">Discord</a> - Our Discord Server</li>
+  <li><a href="https://twitter.com/vipercord">Twitter</a> - Our Twitter Account</li>
+  <li><a href="https://vipercord.instatus.com/">Status</a> - Our Status Page</li>
+
   <li><a href="https://sryden.gg">Sryden Group Ltd</a></li>
 </ul>
