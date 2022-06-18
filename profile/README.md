@@ -1,4 +1,4 @@
-<img src="https://cdn.sryden.gg/i/hFKGuJN3.png" alt="image">
+<img src="https://cdn.sryden.gg/i/36aI66qm.png" alt="image">
 
 
 <h2>Our Links</h2>
