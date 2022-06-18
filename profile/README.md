@@ -7,6 +7,6 @@
   <li><a href="https://discord.com/invite/Fp8CnqyWW8">Discord</a> - Our Discord Server</li>
   <li><a href="https://twitter.com/vipercord">Twitter</a> - Our Twitter Account</li>
   <li><a href="https://vipercord.instatus.com/">Status</a> - Our Status Page</li>
-
-  <li><a href="https://sryden.gg">Sryden Group Ltd</a></li>
+  <li><a href="https://paypal.me/vipercord">Donate</a> - Our Donation Page</li>
+  <li>Owned by - <a href="https://sryden.gg">Sryden Group Ltd</a></li>
 </ul>
